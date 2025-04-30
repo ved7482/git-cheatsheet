@@ -111,14 +111,3 @@ A repository hosted on a server (like GitHub, GitLab, or Bitbucket) where you ca
 
 ---
 *This is a starting point for Git. There's much more to learn, but these basics and commands will get you going! Practice using these commands in a test repository to get comfortable with Git.*
-
-
-I've created a comprehensive README.md file that preserves all the important information from the Git cheatsheet document while organizing it in a clean, readable Markdown format. The file includes:
-
-1. Clear heading hierarchy with different font sizes through Markdown heading levels (# for main title, ## for sections, ### for subsections)
-2. Proper tables for the command categories, maintaining the original structure but with improved readability
-3. Lists for concepts like the benefits of Git and best practices
-4. Emphasis on key terms where appropriate
-5. Organized sections that follow the logical flow of the original document
-
-The README maintains all the essential content from the original PDF while presenting it in a format that's easy to read and reference on GitHub or any Markdown viewer.
